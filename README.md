@@ -1,2 +1,2 @@
 # Polynomial-Calc
-The polynomial calculator is implemented using linked lists and regex in Java. It can perform addition, subtraction, multiplication and division.
+Calculatorul polinomial este implementat folosind expresii regex si liste inlantuite. Capabilitati: adunare, scaderre, inmultire, impartire. Pentru detaliile implementarii a se accesa fisierul Documentatie.txt.
